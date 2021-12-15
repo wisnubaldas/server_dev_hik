@@ -1,3 +1,5 @@
 docker-subversion-edge/svn-data/*
 docker-subversion-edge/svn-data
-gitlab
+gitlab/logs
+gitlab/data
+gitlab/config
